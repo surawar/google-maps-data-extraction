@@ -1,4 +1,4 @@
-### Google Maps Data Extraction: Promotional Products Suppliers
+# Google Maps Data Extraction: Promotional Products Suppliers
 
 This project focuses on extracting business information from Google Maps by searching for "Promotional products supplier" based on Australian postal codes. The extracted data includes details such as business name, address, mobile number, email IDs, Facebook page (if available), website, and postal code.
 
