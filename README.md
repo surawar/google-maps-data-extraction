@@ -57,7 +57,7 @@ The workflow involves the following steps:
 
 ## Access Full Data
 
-For access to the full extracted data, please visit [our blog](https://aupromosuppliers.blogspot.com/2024/03/aussie-swag-central-your-premier.html).
+For access to the full extracted data, please visit [our blog](https://aupromosuppliers.blogspot.com/2024/03/Promotional%20Products%20Suppliers%20Aus.html).
 
 ## Disclaimer
 
